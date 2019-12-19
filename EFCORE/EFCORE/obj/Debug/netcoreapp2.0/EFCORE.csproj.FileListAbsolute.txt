@@ -1,0 +1,11 @@
+C:\Users\Garik\source\repos\EFCORE\EFCORE\bin\Debug\netcoreapp2.0\EFCORE.deps.json
+C:\Users\Garik\source\repos\EFCORE\EFCORE\bin\Debug\netcoreapp2.0\EFCORE.runtimeconfig.json
+C:\Users\Garik\source\repos\EFCORE\EFCORE\bin\Debug\netcoreapp2.0\EFCORE.runtimeconfig.dev.json
+C:\Users\Garik\source\repos\EFCORE\EFCORE\bin\Debug\netcoreapp2.0\EFCORE.dll
+C:\Users\Garik\source\repos\EFCORE\EFCORE\obj\Debug\netcoreapp2.0\EFCORE.csprojAssemblyReference.cache
+C:\Users\Garik\source\repos\EFCORE\EFCORE\obj\Debug\netcoreapp2.0\EFCORE.csproj.CoreCompileInputs.cache
+C:\Users\Garik\source\repos\EFCORE\EFCORE\obj\Debug\netcoreapp2.0\EFCORE.AssemblyInfoInputs.cache
+C:\Users\Garik\source\repos\EFCORE\EFCORE\obj\Debug\netcoreapp2.0\EFCORE.AssemblyInfo.cs
+C:\Users\Garik\source\repos\EFCORE\EFCORE\bin\Debug\netcoreapp2.0\EFCORE.pdb
+C:\Users\Garik\source\repos\EFCORE\EFCORE\obj\Debug\netcoreapp2.0\EFCORE.dll
+C:\Users\Garik\source\repos\EFCORE\EFCORE\obj\Debug\netcoreapp2.0\EFCORE.pdb
